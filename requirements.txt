@@ -1,0 +1,5 @@
+selenium==4.15.2
+mysql-connector-python==8.2.0
+flask==3.0.0
+webdriver-manager==4.0.1
+requests==2.31.0

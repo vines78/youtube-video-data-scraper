@@ -1,0 +1,404 @@
+2025-08-24 16:17:39,119 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-08-24 16:17:39,120 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-24 16:17:39,161 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-24 16:17:40,438 - WARNING -  * Debugger is active!
+2025-08-24 16:17:40,445 - INFO -  * Debugger PIN: 836-789-255
+2025-08-24 16:17:59,250 - INFO - 127.0.0.1 - - [24/Aug/2025 16:17:59] "GET / HTTP/1.1" 200 -
+2025-08-24 16:17:59,486 - INFO - 127.0.0.1 - - [24/Aug/2025 16:17:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-24 16:17:59,694 - INFO - 127.0.0.1 - - [24/Aug/2025 16:17:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-24 16:18:09,074 - INFO - ====== WebDriver manager ======
+2025-08-24 16:18:09,074 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:09] "POST /scrape_channels HTTP/1.1" 200 -
+2025-08-24 16:18:11,101 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:18:11,135 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:11] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:13,454 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:13] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:15,139 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:15] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:17,015 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:18:17,447 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:17] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:18,639 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-24 16:18:18,855 - ERROR - Failed to initialize WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-08-24 16:18:19,142 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:19] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:21,451 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:21] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:23,140 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:23] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:25,442 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:25] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:27,164 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:27] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:29,446 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:29] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:31,147 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:31] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:33,473 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:33] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:35,157 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:35] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:37,467 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:37] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:39,148 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:39] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:41,447 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:41] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:43,139 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:43] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:44,221 - INFO - WebDriver initialized successfully in fallback mode
+2025-08-24 16:18:45,448 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:45] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:47,146 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:47] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:48,349 - ERROR - Failed to connect to database: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-08-24 16:18:48,352 - INFO - Using in-memory storage as database fallback
+2025-08-24 16:18:48,353 - INFO - Processing channel: iNeuron
+2025-08-24 16:18:48,353 - INFO - Accessing channel: https://www.youtube.com/@iNeuroniNtelligence
+2025-08-24 16:18:49,451 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:49] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:51,435 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:51] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:53,136 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:53] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:55,458 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:55] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:57,135 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:57] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:18:59,468 - INFO - 127.0.0.1 - - [24/Aug/2025 16:18:59] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:01,495 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:01] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:01,913 - INFO - Found 899 videos for channel: https://www.youtube.com/@iNeuroniNtelligence
+2025-08-24 16:19:01,913 - INFO - Stored channel data for iNeuron in memory
+2025-08-24 16:19:03,140 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:03] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:03,915 - INFO - Processing channel: Krish Naik
+2025-08-24 16:19:03,915 - INFO - Accessing channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:19:05,436 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:05] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:07,139 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:07] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:09,480 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:09] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:10,690 - INFO - Found 2000 videos for channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:19:10,691 - INFO - Stored channel data for Krish Naik in memory
+2025-08-24 16:19:11,448 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:11] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:12,692 - INFO - Processing channel: College Wallah
+2025-08-24 16:19:12,692 - INFO - Accessing channel: https://www.youtube.com/@CollegeWallahbyPW
+2025-08-24 16:19:13,319 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:13] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:15,438 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:15] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:17,130 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:17] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:19,026 - INFO - Found 1300 videos for channel: https://www.youtube.com/@CollegeWallahbyPW
+2025-08-24 16:19:19,030 - INFO - Stored channel data for College Wallah in memory
+2025-08-24 16:19:19,436 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:19] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:21,481 - INFO - 127.0.0.1 - - [24/Aug/2025 16:19:21] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:19:23,495 - INFO - WebDriver closed
+2025-08-24 16:20:38,597 - INFO - ====== WebDriver manager ======
+2025-08-24 16:20:38,597 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:38] "POST /scrape_video HTTP/1.1" 200 -
+2025-08-24 16:20:40,947 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:40] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:41,102 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:20:42,633 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:42] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:42,947 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:20:44,647 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-24 16:20:44,654 - ERROR - Failed to initialize WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-08-24 16:20:44,932 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:44] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:46,636 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:46] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:48,967 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:48] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:50,027 - INFO - WebDriver initialized successfully in fallback mode
+2025-08-24 16:20:50,965 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:50] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:52,638 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:52] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:54,090 - ERROR - Failed to connect to database: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-08-24 16:20:54,090 - INFO - Using in-memory storage as database fallback
+2025-08-24 16:20:54,093 - INFO - Processing video: https://youtu.be/s3KnSb9b4Pk?si=ZdKGZfn1D-eoFVfr
+2025-08-24 16:20:54,094 - INFO - Accessing video: https://youtu.be/s3KnSb9b4Pk?si=ZdKGZfn1D-eoFVfr
+2025-08-24 16:20:54,945 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:54] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:56,954 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:56] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:20:58,632 - INFO - 127.0.0.1 - - [24/Aug/2025 16:20:58] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:00,941 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:00] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:02,625 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:02] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:05,655 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:05] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:06,951 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:06] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:08,631 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:08] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:10,945 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:10] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:12,624 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:12] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:14,679 - INFO - Stored video data for: Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources in memory
+2025-08-24 16:21:14,939 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:14] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:21:18,693 - INFO - WebDriver closed
+2025-08-24 16:21:20,340 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:20] "GET /results HTTP/1.1" 200 -
+2025-08-24 16:21:20,474 - INFO - 127.0.0.1 - - [24/Aug/2025 16:21:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-24 16:22:48,467 - INFO - 127.0.0.1 - - [24/Aug/2025 16:22:48] "GET / HTTP/1.1" 200 -
+2025-08-24 16:22:48,599 - INFO - 127.0.0.1 - - [24/Aug/2025 16:22:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-24 16:28:45,459 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-08-24 16:28:45,460 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-24 16:28:45,501 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-24 16:28:46,764 - WARNING -  * Debugger is active!
+2025-08-24 16:28:46,771 - INFO -  * Debugger PIN: 836-789-255
+2025-08-24 16:28:53,961 - INFO - 127.0.0.1 - - [24/Aug/2025 16:28:53] "GET / HTTP/1.1" 200 -
+2025-08-24 16:28:54,001 - INFO - 127.0.0.1 - - [24/Aug/2025 16:28:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-24 16:28:59,189 - INFO - 127.0.0.1 - - [24/Aug/2025 16:28:59] "POST /scrape_channels HTTP/1.1" 200 -
+2025-08-24 16:28:59,192 - INFO - ====== WebDriver manager ======
+2025-08-24 16:29:01,219 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:01] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:01,523 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:29:03,525 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:03] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:04,195 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:29:05,216 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:05] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:06,364 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-24 16:29:06,371 - ERROR - Failed to initialize WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-08-24 16:29:07,531 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:07] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:09,284 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:09] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:10,631 - INFO - WebDriver initialized successfully in fallback mode
+2025-08-24 16:29:11,575 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:11] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:13,219 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:13] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:14,718 - ERROR - Failed to connect to database: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-08-24 16:29:14,719 - INFO - Using in-memory storage as database fallback
+2025-08-24 16:29:14,724 - INFO - Processing channel: iNeuron
+2025-08-24 16:29:14,726 - INFO - Accessing channel: https://www.youtube.com/@iNeuroniNtelligence
+2025-08-24 16:29:15,534 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:15] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:17,555 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:17] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:19,219 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:19] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:21,528 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:21] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:23,237 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:23] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:25,665 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:25] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:27,543 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:27] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:29,214 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:29] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:31,523 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:31] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:31,614 - INFO - Found 899 videos for channel: https://www.youtube.com/@iNeuroniNtelligence
+2025-08-24 16:29:31,614 - INFO - Stored channel data for iNeuron in memory
+2025-08-24 16:29:33,218 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:33] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:33,616 - INFO - Processing channel: Krish Naik
+2025-08-24 16:29:33,618 - INFO - Accessing channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:29:35,525 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:35] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:37,555 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:37] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:39,244 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:39] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:41,540 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:41] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:43,245 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:43] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:45,536 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:45] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:45,717 - INFO - Found 2000 videos for channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:29:45,718 - INFO - Stored channel data for Krish Naik in memory
+2025-08-24 16:29:47,542 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:47] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:47,721 - INFO - Processing channel: College Wallah
+2025-08-24 16:29:47,724 - INFO - Accessing channel: https://www.youtube.com/@CollegeWallahbyPW
+2025-08-24 16:29:49,219 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:49] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:51,539 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:51] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:53,216 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:53] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:55,572 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:55] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:55,673 - INFO - Found 1300 videos for channel: https://www.youtube.com/@CollegeWallahbyPW
+2025-08-24 16:29:55,674 - INFO - Stored channel data for College Wallah in memory
+2025-08-24 16:29:57,525 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:57] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:29:59,225 - INFO - 127.0.0.1 - - [24/Aug/2025 16:29:59] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:30:00,398 - INFO - WebDriver closed
+2025-08-24 16:31:05,108 - INFO - ====== WebDriver manager ======
+2025-08-24 16:31:05,108 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:05] "POST /scrape_video HTTP/1.1" 200 -
+2025-08-24 16:31:07,444 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:07] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:07,787 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:31:09,138 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:09] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:10,005 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:31:11,438 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:11] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:12,012 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-24 16:31:12,045 - ERROR - Failed to initialize WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-08-24 16:31:13,133 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:13] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:15,490 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:15] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:15,631 - INFO - WebDriver initialized successfully in fallback mode
+2025-08-24 16:31:17,464 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:17] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:19,145 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:19] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:19,699 - ERROR - Failed to connect to database: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-08-24 16:31:19,699 - INFO - Using in-memory storage as database fallback
+2025-08-24 16:31:19,701 - INFO - Processing video: https://youtu.be/TYEqenKrbaM?si=e_Pdg0l_mM2f0DlB
+2025-08-24 16:31:19,702 - INFO - Accessing video: https://youtu.be/TYEqenKrbaM?si=e_Pdg0l_mM2f0DlB
+2025-08-24 16:31:21,465 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:21] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:23,148 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:23] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:25,548 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:25] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:27,494 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:27] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:29,208 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:29] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:31,503 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:31] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:33,169 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:33] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:35,747 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:35] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:37,545 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:37] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:39,137 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:39] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:41,450 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:41] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:43,131 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:43] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:45,449 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:45] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:46,905 - INFO - Stored video data for: Right Way To Learn AI In 2025 in memory
+2025-08-24 16:31:47,459 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:47] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:31:49,352 - INFO - WebDriver closed
+2025-08-24 16:31:52,264 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:52] "GET /results HTTP/1.1" 200 -
+2025-08-24 16:31:52,422 - INFO - 127.0.0.1 - - [24/Aug/2025 16:31:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-24 16:42:01,777 - INFO -  * Detected change in 'F:\\r project for gg\\yt scrapper\\youtube_scraper.py', reloading
+2025-08-24 16:42:01,784 - INFO -  * Detected change in 'F:\\r project for gg\\yt scrapper\\youtube_scraper.py', reloading
+2025-08-24 16:42:01,791 - INFO -  * Detected change in 'f:\\r project for gg\\yt scrapper\\youtube_scraper.py', reloading
+2025-08-24 16:42:01,829 - INFO -  * Detected change in 'f:\\r project for gg\\yt scrapper\\youtube_scraper.py', reloading
+2025-08-24 16:42:03,487 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-24 16:42:03,485 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-24 16:48:27,297 - INFO - ====== WebDriver manager ======
+2025-08-24 16:48:29,302 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:48:31,414 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:48:33,302 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-24 16:48:33,315 - ERROR - Failed to initialize WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-08-24 16:48:37,784 - INFO - WebDriver initialized successfully in fallback mode
+2025-08-24 16:48:41,934 - ERROR - Failed to connect to database: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-08-24 16:48:41,937 - INFO - Using in-memory storage as database fallback
+2025-08-24 16:48:41,938 - INFO - Processing channel: Krish Naik
+2025-08-24 16:48:41,939 - INFO - Accessing channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:49:01,565 - INFO - Found 2000 videos for channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:49:01,567 - INFO - Stored channel data for Krish Naik in memory
+2025-08-24 16:49:01,570 - INFO - Processing video: https://www.youtube.com/watch?v=example_video_id
+2025-08-24 16:49:01,570 - INFO - Accessing video: https://www.youtube.com/watch?v=example_video_id
+2025-08-24 16:49:23,536 - ERROR - Error getting comments: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.128)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65b2b78d5+2802741]
+	GetHandleVerifier [0x0x7ff65b01eb70+79568]
+	(No symbol) [0x0x7ff65adbc0fa]
+	(No symbol) [0x0x7ff65ada8365]
+	(No symbol) [0x0x7ff65adccef4]
+	(No symbol) [0x0x7ff65ae422c5]
+	(No symbol) [0x0x7ff65ae62752]
+	(No symbol) [0x0x7ff65ae3aa63]
+	(No symbol) [0x0x7ff65ae03c91]
+	(No symbol) [0x0x7ff65ae04a23]
+	GetHandleVerifier [0x0x7ff65b2e2ced+2979917]
+	GetHandleVerifier [0x0x7ff65b2dd0f3+2956371]
+	GetHandleVerifier [0x0x7ff65b2facbd+3078173]
+	GetHandleVerifier [0x0x7ff65b03836e+184014]
+	GetHandleVerifier [0x0x7ff65b04024f+216495]
+	GetHandleVerifier [0x0x7ff65b0270c4+113700]
+	GetHandleVerifier [0x0x7ff65b027279+114137]
+	GetHandleVerifier [0x0x7ff65b00df78+10968]
+	BaseThreadInitThunk [0x0x7ff9a5987374+20]
+	RtlUserThreadStart [0x0x7ff9a615cc91+33]
+
+2025-08-24 16:49:23,542 - INFO - Stored video data for: Unknown Title in memory
+2025-08-24 16:49:25,764 - INFO - WebDriver closed
+2025-08-24 16:50:28,080 - INFO - ====== WebDriver manager ======
+2025-08-24 16:50:29,739 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:50:31,426 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:50:33,239 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-24 16:50:33,247 - ERROR - Failed to initialize WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-08-24 16:50:36,432 - INFO - WebDriver initialized successfully in fallback mode
+2025-08-24 16:50:40,553 - ERROR - Failed to connect to database: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-08-24 16:50:40,554 - INFO - Using in-memory storage as database fallback
+2025-08-24 16:50:40,555 - INFO - Processing channel: Krish Naik
+2025-08-24 16:50:40,556 - INFO - Accessing channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:51:07,530 - INFO - Found 2000 videos for channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:51:07,533 - INFO - Stored channel data for Krish Naik in memory
+2025-08-24 16:51:07,538 - INFO - Processing video: https://www.youtube.com/watch?v=example_video_id
+2025-08-24 16:51:07,539 - INFO - Accessing video: https://www.youtube.com/watch?v=example_video_id
+2025-08-24 16:51:22,248 - ERROR - Error getting comments: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65b2b78d5+2802741]
+	GetHandleVerifier [0x0x7ff65b01eb70+79568]
+	(No symbol) [0x0x7ff65adbbf2c]
+	(No symbol) [0x0x7ff65ae02dbf]
+	(No symbol) [0x0x7ff65ae3ab52]
+	(No symbol) [0x0x7ff65ae35663]
+	(No symbol) [0x0x7ff65ae34729]
+	(No symbol) [0x0x7ff65ad86fd5]
+	GetHandleVerifier [0x0x7ff65b2e2ced+2979917]
+	GetHandleVerifier [0x0x7ff65b2dd0f3+2956371]
+	GetHandleVerifier [0x0x7ff65b2facbd+3078173]
+	GetHandleVerifier [0x0x7ff65b03836e+184014]
+	GetHandleVerifier [0x0x7ff65b04024f+216495]
+	(No symbol) [0x0x7ff65ad85fd1]
+	GetHandleVerifier [0x0x7ff65b3fe1a8+4140296]
+	BaseThreadInitThunk [0x0x7ff9a5987374+20]
+	RtlUserThreadStart [0x0x7ff9a615cc91+33]
+
+2025-08-24 16:51:22,265 - INFO - Stored video data for: Unknown Title in memory
+2025-08-24 16:51:24,338 - INFO - WebDriver closed
+2025-08-24 16:53:11,953 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-08-24 16:53:11,962 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-24 16:53:11,998 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-24 16:53:13,470 - WARNING -  * Debugger is active!
+2025-08-24 16:53:13,534 - INFO -  * Debugger PIN: 836-789-255
+2025-08-24 16:53:18,167 - INFO - 127.0.0.1 - - [24/Aug/2025 16:53:18] "GET / HTTP/1.1" 200 -
+2025-08-24 16:53:18,392 - INFO - 127.0.0.1 - - [24/Aug/2025 16:53:18] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-24 16:53:44,378 - INFO -  * Detected change in 'f:\\r project for gg\\yt scrapper\\youtube_scraper.py', reloading
+2025-08-24 16:53:44,383 - INFO -  * Detected change in 'f:\\r project for gg\\yt scrapper\\youtube_scraper.py', reloading
+2025-08-24 16:53:45,565 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-24 16:53:47,311 - WARNING -  * Debugger is active!
+2025-08-24 16:53:47,316 - INFO -  * Debugger PIN: 836-789-255
+2025-08-24 16:53:59,687 - INFO -  * Detected change in 'f:\\r project for gg\\yt scrapper\\app.py', reloading
+2025-08-24 16:53:59,690 - INFO -  * Detected change in 'f:\\r project for gg\\yt scrapper\\app.py', reloading
+2025-08-24 16:54:00,866 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-24 16:54:02,550 - WARNING -  * Debugger is active!
+2025-08-24 16:54:02,557 - INFO -  * Debugger PIN: 836-789-255
+2025-08-24 16:54:13,798 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2025-08-24 16:54:13,799 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-24 16:54:13,822 - INFO -  * Restarting with watchdog (windowsapi)
+2025-08-24 16:54:15,204 - WARNING -  * Debugger is active!
+2025-08-24 16:54:15,212 - INFO -  * Debugger PIN: 836-789-255
+2025-08-24 16:54:21,599 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:21] "GET / HTTP/1.1" 200 -
+2025-08-24 16:54:21,786 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-24 16:54:27,255 - INFO - ====== WebDriver manager ======
+2025-08-24 16:54:27,258 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:27] "POST /scrape_channels HTTP/1.1" 200 -
+2025-08-24 16:54:29,102 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:54:29,313 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:29] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:31,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:54:31,618 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:31] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:33,300 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:33] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:33,687 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-24 16:54:33,694 - ERROR - Failed to initialize WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-08-24 16:54:35,604 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:35] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:37,309 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:37] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:37,852 - INFO - WebDriver initialized successfully in fallback mode
+2025-08-24 16:54:39,645 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:39] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:41,299 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:41] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:42,003 - ERROR - Failed to connect to database: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-08-24 16:54:42,005 - INFO - Using in-memory storage as database fallback
+2025-08-24 16:54:42,006 - INFO - Processing channel: iNeuron
+2025-08-24 16:54:42,008 - INFO - Accessing channel: https://www.youtube.com/@iNeuroniNtelligence
+2025-08-24 16:54:43,623 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:43] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:45,304 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:45] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:47,608 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:47] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:49,783 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:49] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:51,380 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:51] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:53,762 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:53] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:55,302 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:55] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:57,615 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:57] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:54:59,608 - INFO - 127.0.0.1 - - [24/Aug/2025 16:54:59] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:01,297 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:01] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:03,603 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:03] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:05,301 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:05] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:07,606 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:07] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:09,610 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:09] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:09,693 - INFO - Found 899 videos for channel: https://www.youtube.com/@iNeuroniNtelligence
+2025-08-24 16:55:09,694 - INFO - Stored channel data for iNeuron in memory
+2025-08-24 16:55:11,305 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:11] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:11,696 - INFO - Processing channel: Krish Naik
+2025-08-24 16:55:11,698 - INFO - Accessing channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:55:13,616 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:13] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:15,307 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:15] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:17,441 - INFO - Found 2000 videos for channel: https://www.youtube.com/@krishnaik06
+2025-08-24 16:55:17,442 - INFO - Stored channel data for Krish Naik in memory
+2025-08-24 16:55:17,634 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:17] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:19,443 - INFO - Processing channel: College Wallah
+2025-08-24 16:55:19,443 - INFO - Accessing channel: https://www.youtube.com/@CollegeWallahbyPW
+2025-08-24 16:55:19,613 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:19] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:21,307 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:21] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:23,634 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:23] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:25,302 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:25] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:27,144 - INFO - Found 1300 videos for channel: https://www.youtube.com/@CollegeWallahbyPW
+2025-08-24 16:55:27,147 - INFO - Stored channel data for College Wallah in memory
+2025-08-24 16:55:27,619 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:27] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:29,626 - INFO - 127.0.0.1 - - [24/Aug/2025 16:55:29] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:55:31,848 - INFO - WebDriver closed
+2025-08-24 16:56:23,221 - INFO - ====== WebDriver manager ======
+2025-08-24 16:56:23,221 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:23] "POST /scrape_video HTTP/1.1" 200 -
+2025-08-24 16:56:25,269 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:25] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:25,668 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:56:27,559 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:27] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:28,004 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-24 16:56:29,577 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:29] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:30,241 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-24 16:56:30,241 - ERROR - Failed to initialize WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-08-24 16:56:31,256 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:31] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:33,628 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:33] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:33,701 - INFO - WebDriver initialized successfully in fallback mode
+2025-08-24 16:56:35,257 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:35] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:37,571 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:37] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:37,771 - ERROR - Failed to connect to database: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2025-08-24 16:56:37,773 - INFO - Using in-memory storage as database fallback
+2025-08-24 16:56:37,773 - INFO - Processing video: https://youtu.be/TYEqenKrbaM?si=7affUqiOKLMLkCyl
+2025-08-24 16:56:37,773 - INFO - Accessing video: https://youtu.be/TYEqenKrbaM?si=7affUqiOKLMLkCyl
+2025-08-24 16:56:39,578 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:39] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:41,259 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:41] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:43,606 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:43] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:45,252 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:45] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:47,794 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:47] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:49,724 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:49] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:51,302 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:51] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:53,754 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:53] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:55,263 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:55] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:57,569 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:57] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:56:59,555 - INFO - 127.0.0.1 - - [24/Aug/2025 16:56:59] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:01,274 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:01] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:03,555 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:03] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:05,247 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:05] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:07,557 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:07] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:09,557 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:09] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:11,260 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:11] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:13,553 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:13] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:15,559 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:15] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:17,261 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:17] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:19,575 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:19] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:20,755 - INFO - Stored video data for: Right Way To Learn AI In 2025 in memory
+2025-08-24 16:57:21,257 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:21] "GET /status HTTP/1.1" 200 -
+2025-08-24 16:57:23,223 - INFO - WebDriver closed
+2025-08-24 16:57:24,689 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:24] "GET /results HTTP/1.1" 200 -
+2025-08-24 16:57:24,821 - INFO - 127.0.0.1 - - [24/Aug/2025 16:57:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
